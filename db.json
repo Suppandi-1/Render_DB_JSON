@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why Do we use it?\nIt is a long established fact that a reder will be  distracted .... These key points provide a glimpse into the world of React.js and its important concepts. By understanding and utilizing these principles, developers can effectively build scalable and interactive user interfaces.",
+      "author": "Suppandi",
+      "id": 1
+    },
+    {
+      "title": "Opening Pary!",
+      "body": "Why Do we use it?\nIt is a long established fact that a reder will be  distracted ....",
+      "author": "DDaku",
+      "id": 2
+    },
+    {
+      "title": "Web Dev TopTips",
+      "body": "Why Do we use it?\nIt is a long established fact that a reder will be  distracted ....",
+      "author": "Devesh",
+      "id": 3
+    },
+    {
+      "title": "Suppandi's Blogs benifits",
+      "body": "some time we should learn more about these things these things teaches us too much .....",
+      "author": "Suppandi",
+      "id": 4
+    }
+  ]
+}
