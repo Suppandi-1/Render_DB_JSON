@@ -55,6 +55,11 @@
         "linkDiscription":"Render",
         "link":"https://dashboard.render.com/",
         "id":6
+    },
+    {
+        "linkDiscription":"Netify",
+        "link":"https://app.netlify.com/teams/suppandi-1/overview",
+        "id":7
     }
 ],
 
