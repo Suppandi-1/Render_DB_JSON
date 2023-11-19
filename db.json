@@ -60,6 +60,21 @@
         "linkDiscription":"Netify",
         "link":"https://app.netlify.com/teams/suppandi-1/overview",
         "id":7
+    },
+    {
+        "linkDiscription":"Lucid",
+        "link":"https://lucide.dev/",
+        "id":8
+    },
+    {
+        "linkDiscription":"drawingTab",
+        "link":"https://excalidraw.com/",
+        "id":9
+    },
+    {
+        "linkDiscription":"Ray.so",
+        "link":"https://ray.so/",
+        "id":10
     }
 ],
 
